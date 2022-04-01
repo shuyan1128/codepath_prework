@@ -7,6 +7,7 @@ Submitted by: Shuyan Yan
 Time spent: 4 hours spent in total
 
 Link to project: (insert your link here, should start with https://glitch.com...)
+https://glitch.com/edit/#!/polite-earthy-humerus
 
 ## Required Functionality
 
@@ -38,82 +39,15 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough (GIF)
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/76415280/160776222-13dca180-d91a-4417-9ea9-877f95b86276.gif)
-
-
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![](gif1-link-here)
-![](gif2-link-here)
+![](https://user-images.githubusercontent.com/76415280/161189719-3b7bfeed-717c-44fe-9aa4-1bccbe015df5.mov)
+![](https://user-images.githubusercontent.com/76415280/161197393-5b092eaf-b161-4642-877b-462904ca3ea0.gif)
 ![](gif3-link-here)
 ![](gif4-link-here)
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-[YOUR ANSWER HERE]
-
-2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-[YOUR ANSWER HERE]
-
-3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
-
-4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
-
-
-
-## Interview Recording URL Link
-
-[My 5-minute Interview Recording](your-link-here)
-
-
-## License
-
-    Copyright [YOUR NAME]
-
-    Licensed under the Apache License, Version 2.0 (the "License");
-    you may not use this file except in compliance with the License.
-    You may obtain a copy of the License at
-
-        http://www.apache.org/licenses/LICENSE-2.0
-
-    Unless required by applicable law or agreed to in writing, software
-    distributed under the License is distributed on an "AS IS" BASIS,
-    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-    See the License for the specific language governing permissions and
-    limitations under the License.
-## Notes
-
-Describe any challenges encountered while building the app.
-
-## License
-
-    Copyright [yyyy] [name of copyright owner]
-
-    Licensed under the Apache License, Version 2.0 (the "License");
-    you may not use this file except in compliance with the License.
-    You may obtain a copy of the License at
-
-        http://www.apache.org/licenses/LICENSE-2.0
-
-    Unless required by applicable law or agreed to in writing, software
-    distributed under the License is distributed on an "AS IS" BASIS,
-    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-    See the License for the specific language governing permissions and
-    limitations under the License.
-- [ ] List anything else that you can get done to improve the app!
-
-## Video Walkthrough (GIF)
-
-If you recorded multiple GIFs for all the implemented features, you can add them here:
-![](gif1-link-here)
-![](gif2-link-here)
-![](gif3-link-here)
-![](gif4-link-here)
-
-## Reflection Questions
-1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-[YOUR ANSWER HERE]
+[I did not use any outside resources to help me complete my submission.]
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
 [YOUR ANSWER HERE]
