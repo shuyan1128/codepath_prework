@@ -69,7 +69,7 @@ When I want to build a new website, where should I start? Also,  Should I try to
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording](https://www.youtube.com/watch?v=3vbf7bWY5kk)
 
 
 ## License
